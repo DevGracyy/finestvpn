@@ -1,0 +1,646 @@
+{
+    "version": 20180322,
+
+    "payloads": [
+        {
+            "Version" : 2,
+            "Name"    : "DIRECT",
+            "Payload" : "",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": ""
+        },
+        {
+            "Version" : 2,
+            "Name"    : "SMART LTE [Luzon] - AT10",
+            "Payload" : "1B0E111B6F253F35327560627B6F242E2C28292E2D24612E242C62071B191B6E73617E16252D1F07203E3F7B627F612B2A22272D2022206F21202216252D1F176202252D2B212A60032E313B756D7B6F242E2C28292E2D24612E242C19212310136C04203D3A2A33266207223835786F7F632D20212A2D22242A6C2C2020102F2E120C22252F272C3B24242F786F04282E316F0E23243D24192123101B332D373660082E2C212A2E3F282D21756D0024273F620C2728342A1423271C19212310080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "Mag load or paload gamit coinsph or sa suking tindahan."
+        },
+        {
+            "Version" : 2,
+            "Name"    : "SMART LTE [Luzon] - AOC20",
+            "Payload" : "1B0E111B6F253F35327560627B6F242E2C28292E2D24612E242C62071B191B6E73617E16252D1F07203E3F7B627F612B2A22272D2022206F21202216252D1F176202252D2B212A60032E313B756D7B6F242E2C28292E2D24612E242C19212310136C04203D3A2A33266207223835786F7F632D20212A2D22242A6C2C2020102F2E120C22252F272C3B24242F786F04282E316F0E23243D24192123101B332D373660082E2C212A2E3F282D21756D0024273F620C2728342A1423271C19212310080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send AOC20 to 9999. 20 pesos valid for 3 days."
+        },
+        {
+            "Version" : 2,
+            "Name"    : "SMART LTE [Luzon] - SAKTO20",
+            "Payload" : "0C04166F27393F317860603A3C366C292E2E2E232D202463282E2F606F051F1512607E637A1A213D232B16092D3C3B776B363538612B2A22272D2022206F2120221628332E291215660E2C2326232E6C0A203C397161353838632D20212A2D22242A6C2C2020102230232910082E2C212A2E3F282D21756D0024273F620C2728342A142E392D2412142E392D2412110E040F0C0A0C196B1A2A203C3914312D3D3B100B363538612B2A22272D2022206F2120226D103130203B22282E2E12142E392D2412",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send SAKTO20 to 9999. 20 pesos valid for 2 days."
+        },
+        {
+            "Version" : 2,
+            "Name"    : "SmartBro [VizMin]",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D3824233D2C2565222621613B2223273D612E242C192C3D212D1C1A62002327282C2A6205243236756F3E2E20302C276328252C613924292430612C22261A213D232B16196F09203F3C20302B6205243236756F3E2E20302C276328252C613924292430612C22261A213D232B16022D21212828352B2021776B0A272A3F600A2D2B392A1628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 8080,
+
+            "Info": "To register send AT10 to 9999. 10 pesos valid for 1 days."
+        },
+        {
+            "Version" : 2,
+            "Name"    : "TnT[TechnoSIM] M10",
+            "Payload" : "1B0E111B6F253F35327560622A35362E2C2526242C3B612B29322037612E242C62071B191B6E73617E1628332E291205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16196F002121222F276207223835786F2E393F202127222825356C292D3E29396C2C2020102230232910136C04203D3A2A33266207223835786F2E393F202127222825356C292D3E29396C2C2020102230232910082E2C212A2E3F282D21756D0024273F620C2728342A142E392D24121F3F24393B620C22252F272C3B24242F786F04282E316F0E23243D24192C3D212D1C192C3D212D1C19212A390F20362E121628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 8080,
+
+            "Info": ""
+        },
+        {
+            "Version" : 2,
+            "Name" : "GLOBE/TM - Promo 1",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C397161233F3F3E65262D2028212E6F21202216252D1F176202252D2B212A60032E313B756D2A31323C612A242E25232A63282E2F14212116196F09203F3C20302B6205243236756F2C3B313161282224262E2A612E242C19212310082E2C212A2E3F282D21756D0024273F620C2728342A1423271C123D2035326C012021232E22362620237161092A2A3D66002E263928102F2E12",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "You need to accept offers from GlobeSwitch."
+        },
+        {
+            "Version" : 2,
+            "Name" : "GLOBE/TM - Promo 2",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C397161212326282535317C612A242E25232A63282E2F14212116196F002121222F276207223835786F2C2122242C3B3C7E65262D2028212E6F21202216252D1F17620B2433352E3D2966092D3C3B776B222E262A233F327161282224262E2A612E242C19212310082E2C212A2E3F282D21756D0024273F620C2728342A1423271C123D2035326C012021232E22362620237161092A2A3D66002E263928102F2E12",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "You need to accept offers from GlobeSwitch."
+        },
+		{
+            "Version" : 2,
+            "Name" : "GLOBE/TM - Promo 3",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C397161313C23632C32362E3B24286F21202216252D1F176202252D2B212A60032E313B756D38322E61283E3F2036262C63282E2F14212116196F09203F3C20302B6205243236756F3E382D6C283C392A352B2C612E242C19212310082E2C212A2E3F282D21756D0024273F620C2728342A1423271C123D2035326C012021232E22362620237161092A2A3D66002E263928102F2E12",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "You need to accept offers from GlobeSwitch."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT[NO DATA CAP] VIBE15",
+            "Payload" : "0C04166F27393F317860603E2620303B613B22232323283F243432612C22266E62071B191B6E73617E1628332E291205243236756F3E2620303B613B22232323283F243432612C22261A213D232B16196F002121222F276207223835786F3C202A333661392429202E283D223E316C2C2020102230232910136C04203D3A2A33266207223835786F3C202A333661392429202E283D223E316C2C2020102230232910082E2C212A2E3F282D21756D0024273F620C2728342A142E392D241214232E35062E3B2C161A213D232B161A213D232B161A2C2A3B092A352312142E392D2412",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send VIBE15 to 4545. 5days/15load."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT[NO DATA CAP] WHATS10",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D3D312C7D613A2320363C2E3D3B6F2C2A3B1628332E291215660E2C2326232E6C0A203C397161343F217F65362A2E3B3E2A31326121283F1A213D232B16196F09203F3C20302B6205243236756F3B3B2F706138252A35312E3F3D652F273B142E392D24120C22252F272C3B24242F786F04282E316F0E23243D24192C3D212D1C",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send WHATS10 to 4545. 10 Pesos for 3 days."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT-ALLOUT30 #1",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D2A35362E2C2526242C3B612B29322037612E242C192C3D212D1C1A62002327282C2A6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16196F09203F3C20302B6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16022D21212828352B2021776B0A272A3F600A2D2B392A1628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send ALLOUT30 to 4545."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT-ALLOUT30 #2",
+            "Payload" : "1B0E111B6F253F35327560622A35362E2C2526242C3B612B29322037612E242C6D6F07191F116D7E617C102230232910032E313B756D2A35362E2C2526242C3B612B29322037612E242C192C3D212D1C1A62002327282C2A6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16196F09203F3C20302B6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16022D21212828352B2021776B0A272A3F600A2D2B392A1628332E29121628332E29120E040F0C0A0C196B1A2A203C3914312D3D3B106B1A323D203924222D23121628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send ALLOUT30 to 4545."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT SNAP10 #1",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D39167B023C2A63382F233F2C252A356C2C20206461193F3D223F2E21202310102230232910032E313B756D38246C3C212C3B222A2E3B63282E2F142C3F27271F176202252D2B212A60032E313B756D38246C3C212C3B222A2E3B63282E2F142C3F27271F0C20232524213B2622257B62042A283B6C0323263B2E1A213D232B16113020373466022D21212828352B2021776B0A272A3F600A2D2B392A1628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send SNAP10 to 4545. 10 Pesos for 3 days."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT SNAP10 #2",
+            "Payload" : "0C04166F27393F317860602B2E242E26213E242F2B2C2A632A31323C3F223F6F212022626B09161B1F627A6F73142C3F27271F07203E3F7B62292A2827282C3C2023222227612E3D3B3232203B63282E2F142C3F27271F176202252D2B212A60032E313B756D2D2427232623382E2C262C286520323F3C3D24356C2C2020102230232910136C04203D3A2A33266207223835786F29282E2D2B213C222528212A612C3B31313F203965222D22142E392D24120C22252F272C3B24242F786F04282E316F0E23243D24192C3D212D1C192C3D212D1C010001030E02166F1425243236103F2239351F6F143D392E36202C22271C192C3D212D1C",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send SNAP10 to 4545. 10 Pesos for 3 days."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT IG10",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C3971612F612623383523283D2C266F21202216252D1F176202252D2B212A60032E313B756D266F2B213C392A26302E2263282E2F14212116196F09203F3C20302B6205243236756F2065282C3C3B2C2C332322612E242C19212310082E2C212A2E3F282D21756D0024273F620C2728342A1423271C123D2035326C012021232E22362620237161092A2A3D66002E263928102F2E12",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send IG10 to 4545."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - CHOOSE SNAPCHAT",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C3971612F613C232A3121272E3965222D221423271C1A62002327282C2A6205243236756F2065322C2E3F2E232036612C22261A2C23121566072D3D382C39256F07203E3F7B6222613E2520322C272C3F6F21202216252D1F0C20232524213B2622257B62042A283B6C0323263B2E1A2C23121D392E3A36620E242F2C2A2C39222E2C756F062E2432620E2122372714212116",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send CHOOSE SNAP to 3533."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - CHOOSE WECHAT",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C3971612F6138282829233B612E242C19212310136C0D21232425246F07203E3F7B6222613A2E222A2E3B63282E2F14212116196F09203F3C20302B6205243236756F206536272C272C3F6F21202216252D1F0C20232524213B2622257B62042A283B6C0323263B2E1A2C23121D392E3A36620E242F2C2A2C39222E2C756F062E2432620E2122372714212116",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send CHOOSE WECHAT to 3533."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - CHOOSE INSTAGRAM",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C3971612F612623383523283D2C266F21202216252D1F176202252D2B212A60032E313B756D266F2B213C392A26302E2263282E2F14212116196F09203F3C20302B6205243236756F2065282C3C3B2C2C332322612E242C19212310082E2C212A2E3F282D21756D0024273F620C2728342A1423271C123D2035326C012021232E22362620237161092A2A3D66002E263928102F2E12",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send CHOOSE IG to 3533."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - CHOOSE WATTPAD",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D266F352E3B393B2026612C22261A213D232B16196F002121222F276207223835786F22633C20363B3F2C2F6F2120221628332E29121566072D3D382C39256F07203E3F7B6222613A2A35363F2E2965222D22142E392D24120C22252F272C3B24242F786F04282E316F0E23243D24192C3D212D1C",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send CHOOSE WATTPAD to 3533."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - CHOOSE WHATS",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D3C363561282224262E2A612E242C6C3F271628332E291215660E2C2326232E6C0A203C397161353838632C2E2D28232865222D22613D231A213D232B16196F09203F3C20302B6205243236756F3A3C366C2820222C2D27612C22266F3227142E392D24120C22252F272C3B24242F786F04282E316F0E23243D24192C3D212D1C",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send CHOOSE WATTPAD to 3533."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - CHOOSE GOOGLE",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D3C3635612C29256F35272E393820323F61232E35192C3D212D1C1A62002327282C2A6205243236756F3A3C366C2C2B2365362A2E3B3E2A31326121283F1A213D232B16196F09203F3C20302B6205243236756F3A3C366C2C2B2365362A2E3B3E2A31326121283F1A213D232B16022D21212828352B2021776B0A272A3F600A2D2B392A1628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send CHOOSE GOOGLE to 3533."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - CR10",
+            "Payload" : "080E0C010A0E1F611927203E3F1C78143F2239351F6F07191F116D1427393F3134121423271C0A203C3971612A2E3D20242F3B612C212A322A20292E27202C3C612E242C19212310136C0D21232425246F07203E3F7B62272E3F262E2C36612E27203127202B282D23213C63282E2F14212116022D21212828352B2021776B0A272A3F600A2D2B392A16252D1F1F3D2233386F0C20232524213B2622257B62042A283B6C0323263B2E1A2C2312",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send CR10 to 4545."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - BOOM10",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D3C3635612C212A322A20292E27202C3C612E242C192C3D212D1C1A62002327282C2A6205243236756F3A3C366C2C232C38292D292C212A2F31612C22261A213D232B16196F09203F3C20302B6205243236756F3A3C366C2C232C38292D292C212A2F31612C22261A213D232B16022D21212828352B2021776B0A272A3F600A2D2B392A1628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send BOOMBEACH10 to 4545."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - FB10 #1",
+            "Payload" : "1B0E111B6F253F35327560623C363561292C28242020202665222D226F051F1512607E637A1A213D232B16092D3C3B776B363538612B2A22272D2022206F2120221628332E291215660E2C2326232E6C0A203C397161353838632D20212A2D22242A6C2C2020102230232910136C04203D3A2A33266207223835786F383A3C6F242E2C28292E2D24612E242C192C3D212D1C012021232E22362620237161092A2A3D66002E263928102230232910080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E2120231010223023291010223023291015020D01010808156214272238351D3F203F3F1C62143F3F24352D2C2021161A213D232B16",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send FACEBOOK10 to 4545. P10 valid for 3 days."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - FB10 #2",
+            "Payload" : "1B0E111B6F253F35327560623C36356126233F2430212A39652E30286F051F1512607E637A1A213D232B16092D3C3B776B36353861242535273D21283F6F2D3D281628332E291215660E2C2326232E6C0A203C39716135383863222F362A3D232E356C203D2A102230232910136C04203D3A2A33266207223835786F383A3C6F2B213B28392F273B61223926192C3D212D1C012021232E22362620237161092A2A3D66002E263928102230232910080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E2120231010223023291010223023291015020D01010808156214272238351D3F203F3F1C62143F3F24352D2C2021161A213D232B16",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send FACEBOOK10 to 4545. P10 valid for 3 days."
+        },
+        {
+            "Version" : 2,
+            "Name" : "TNT - FB10 #3",
+            "Payload" : "1B0E111B6F253F3532756062222F313B2E2A39202F612C2226610A1B1B1D64706C7E142E392D241207223835786F2623383523283D2C266F2120221628332E291215660E2C2326232E6C0A203C3971612B213C392A26302E2263282E2F142C3F27271F17620B2433352E3D2966092D3C3B776B282C3C3B2C2C332322612E242C192C3D212D1C012021232E22362620237161092A2A3D66002E263928102230232910080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E2120231010223023291010223023291015020D01010808156214272238351D3F203F3F1C62143F3F24352D2C2021161A213D232B16",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send FACEBOOK10 to 4545. P10 valid for 3 days."
+        },
+        {
+            "Version" : 2,
+            "Name"    : "SUN - EMAIL10",
+            "Payload" : "102F273B0B2C3F201F142C3F27271F07203E3F7B623C22393B6F2D3A3B21242E29612C22261A213D232B16196F002121222F276207223835786F3C203F316C203A39272E2D24612E242C192C3D212D1C012021232E22362620237161092A2A3D66002E263928102230232910",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 8080,
+
+            "Info": "To register send EMAIL10 to 247. P10 valid for 1 day."
+        },
+        {
+            "Version" : 2,
+            "Name"    : "SUN (FB/TU)",
+            "Payload" : "1B0E111B6F253F35327560622A35362E2C2526242C3B612B29322037612E242C62071B191B6E73617E1628332E291205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16196F002121222F276207223835786F2E393F202127222825356C292D3E29396C2C2020102230232910136C04203D3A2A33266207223835786F2E393F202127222825356C292D3E29396C2C2020102230232910082E2C212A2E3F282D21756D0024273F620C2728342A142E392D24121F3F24393B620C22252F272C3B24242F786F04282E316F0E23243D24192C3D212D1C192C3D212D1C19212A390F20362E121628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 8080,
+
+            "Info": ""
+        },
+        {
+            "Version" : 2,
+            "Name" : "SUN FB10/FB50 #1",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D391661193F3D223F2E21202310102230232910032E313B756D2A35362E2C2526242C3B612B29322037612E242C192C3D212D1C1A62002327282C2A6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16196F09203F3C20302B6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16022D21212828352B2021776B0A272A3F600A2D2B392A1628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send FB10 or FB50 to 247."
+        },
+        {
+            "Version" : 2,
+            "Name" : "SUN FB10/FB50 #2",
+            "Payload" : "1B0E111B6F253F35327560622A35362E2C2526242C3B612B29322037612E242C6D6F07191F116D7E617C102230232910032E313B756D2A35362E2C2526242C3B612B29322037612E242C192C3D212D1C1A62002327282C2A6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16196F09203F3C20302B6205243236756F2C3F35232C27202E2F3661292F38233A612C22261A213D232B16022D21212828352B2021776B0A272A3F600A2D2B392A1628332E29121628332E29120E040F0C0A0C196B1A2A203C3914312D3D3B106B1A323D203924222D23121628332E2912",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "To register send FB10 or FB50 to 247."
+        },
+        {
+            "Version" : 2,
+            "Name" : "ABSMOBILE - IWANT",
+            "Payload" : "080E0C010A0E1F611927203E3F1E32203D39160121223C63223623213B3B65222D22613D2361193F3D223F2E21202310102230232910032E313B756D282C3161263A2A2F3639612E242C6C3F271628332E29120E242F2C2A2C39222E2C756F062E2432620E21223727142C3F27271F1A3C28396C03282A233F7B622024253F3532607D637F6F72142C3F27271F",
+
+            "Host" : "",
+            "OnlineHost" : false,
+            "ForwardHost" : false,
+            "KeepAlive" : false,
+            "QueryMode" : 0,
+            "QueryHost" : "",
+            "BackInject" : "",
+            "FrontInject" : "",
+            "Split" : false,
+            "CustomProxy" : false,
+            "ProxyServer" : "",
+            "ProxyPort" : 0,
+
+            "Info": "Send keyword to 2135. IWANTV10 valid for 1 day, IWANTV40 valid for 7 days, IWANTV99 valid for 30 days. Data Cap 800mb/day."
+        }
+    ]
+}
