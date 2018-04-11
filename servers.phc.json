@@ -1,0 +1,17 @@
+{
+    "version":30000010,
+    "servers":[
+      {
+         "ip":"159.65.159.144",
+         "type":"premium",
+         "label":"VIP INDIA|IP:PORT[159.65.159.144:3128]",
+         "country_code":"SG"
+      },
+      {
+         "ip":"",
+         "type":"premium",
+         "label":"BACKUP SERVER [EMERGENCY ONLY]",
+         "country_code":"SG"
+      }
+    ]
+}
